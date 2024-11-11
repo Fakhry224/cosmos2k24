@@ -8,9 +8,6 @@ Author: **anakmamah**
 
 ## Hint
 
-- RFC 9309
-- Teliti adalah kunci!
-- Bagaimana saya menghilangkan efek dari css...🤔
 
 ## POC
 
