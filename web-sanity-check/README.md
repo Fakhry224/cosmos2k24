@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Sebuah _**Robots**_ telah membagi flag menjadi beberapa bagian, bisakah anda menolong saya untuk mengumpulkan semua bagian flag?
+Sebuah _**Robot**_ telah membagi flag menjadi beberapa bagian, bisakah anda menolong saya untuk mengumpulkan semua bagian flag?
 
 Author: **anakmamah**
 
